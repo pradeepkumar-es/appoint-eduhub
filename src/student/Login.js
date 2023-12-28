@@ -1,4 +1,4 @@
-import app from "../firebase"
+import {app} from "../firebase"
 import React from 'react'
 import { useState } from "react"
 import { getAuth,
